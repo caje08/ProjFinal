@@ -4,7 +4,7 @@
 
 	<!-- 1. Definir info do pom "pai" -->
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>dei.uc.pt.ar.paj.carlos.catarina</groupId>
+	<groupId>pt.uc.dei.aor.proj.carlos.catarina</groupId>
 	<artifactId>projfinalparent</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>pom</packaging>
